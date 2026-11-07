@@ -238,4 +238,4 @@ This repository serves as the official landing page for Bexplorer. The software 
 **Get the most recent version of Bexplorer today!**
 
 ---
-**Last updated:** 2026-11-06 20:45:51 UTC
+**Last updated:** 2026-11-07 00:46:10 UTC
